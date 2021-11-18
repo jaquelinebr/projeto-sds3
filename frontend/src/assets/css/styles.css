@@ -27,6 +27,10 @@ html, body {
     background-color: var(--color-primary) !important;
 }
 
+a {
+    text-decoration: none;
+}
+
 .text-primary {
     color: var(--color-primary) !important;
 }
